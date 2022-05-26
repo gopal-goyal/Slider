@@ -12,3 +12,6 @@ no. of similar sliders on a single page or on entire website.
  (For eg. - If we want to use the slider twice /thrice or any number of
  times, a single javascript function works for both of them and
  does not interfere with other sliders at a particular run-time.
+ 
+ 
+[Live Preview](https://gopal-goyal.github.io/Slider/)
